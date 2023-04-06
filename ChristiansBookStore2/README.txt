@@ -10,3 +10,6 @@ It still works!!!!!!!!!!!!!!!!!!! Now I need to edit the layouts colours a bit.
 Changed the text from dark to white on line 23 in Layout.cs. again
 3:39
 Made a few more small changes to the Layout.cs file. Main in the footer area. Nothing to special here yet, just retreading familiar ground.
+3:45
+Added the Dropdown list with all the options again. I hope I can actually complete the project corrcetly and do everything right this time. Because I have had to redo the 
+one 3 times now.
