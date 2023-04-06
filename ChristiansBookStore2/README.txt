@@ -13,3 +13,4 @@ Made a few more small changes to the Layout.cs file. Main in the footer area. No
 3:45
 Added the Dropdown list with all the options again. I hope I can actually complete the project corrcetly and do everything right this time. Because I have had to redo the 
 one 3 times now.
+3:
