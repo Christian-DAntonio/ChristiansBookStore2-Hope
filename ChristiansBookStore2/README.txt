@@ -37,3 +37,5 @@ I'm on part 2 and edited the appsettings.json file without much hassle. The proj
 it's been a while since I updated this part last, hasn't it? Anyways, I just added the AddDefaultidentityMigration
 3:39
 I think I finally got the Data folder figured out.
+3:44
+Made the category class in the Models project.
