@@ -23,3 +23,5 @@ I added the dependencies to the main project.
 Had a bunch of erros that I solved fairly quickly. Thank Gof I can safely move on.
 2:36
 Updated the ViewMdoels refernces on all the pages.
+2:38
+Forgot to remove the Class1.cs from every project when moving onto the SD.cs part.
