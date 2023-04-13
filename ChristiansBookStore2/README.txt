@@ -39,3 +39,5 @@ it's been a while since I updated this part last, hasn't it? Anyways, I just add
 I think I finally got the Data folder figured out.
 3:44
 Made the category class in the Models project.
+3:52
+Updated the Category.cs file.
