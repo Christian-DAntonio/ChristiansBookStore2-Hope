@@ -25,3 +25,5 @@ Had a bunch of erros that I solved fairly quickly. Thank Gof I can safely move o
 Updated the ViewMdoels refernces on all the pages.
 2:38
 Forgot to remove the Class1.cs from every project when moving onto the SD.cs part.
+2:41
+Added the Utility refernce to the main project and added th SD class.
