@@ -15,3 +15,5 @@ Added the Dropdown list with all the options again. I hope I can actually comple
 one 3 times now.
 Apr/13/2023
 I'm back and I've added the other projects for the 50th time already. They all also work fine.
+2:12 PM
+I made tha data folder changes and download the Console packages into the DataAccess Project.
