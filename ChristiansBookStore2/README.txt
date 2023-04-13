@@ -33,3 +33,5 @@ I edited and move some of the files so that they would be up to date with what t
 Figured out tthere was a small mitsake in the layout.cs file, so I erased some of the clutter and now it looks normal. i'm also offically done with the first part
 3:05
 I'm on part 2 and edited the appsettings.json file without much hassle. The project still runs fine.
+3:32
+it's been a while since I updated this part last, hasn't it? Anyways, I just added the AddDefaultidentityMigration
