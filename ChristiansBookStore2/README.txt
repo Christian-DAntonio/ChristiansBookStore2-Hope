@@ -21,3 +21,5 @@ I made tha data folder changes and download the Console packages into the DataAc
 I added the dependencies to the main project.
 2:29
 Had a bunch of erros that I solved fairly quickly. Thank Gof I can safely move on.
+2:36
+Updated the ViewMdoels refernces on all the pages.
