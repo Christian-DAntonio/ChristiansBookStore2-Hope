@@ -16,6 +16,7 @@
   <ItemGroup>
     <ProjectReference Include="..\ChristiansBooks.DataAccess\ChristiansBooks.DataAccess.csproj" />
     <ProjectReference Include="..\ChristiansBooks.Models\ChristiansBooks.Models.csproj" />
+    <ProjectReference Include="..\ChristiansBooks.Utility\ChristiansBooks.Utility.csproj" />
   </ItemGroup>
 
 </Project>
