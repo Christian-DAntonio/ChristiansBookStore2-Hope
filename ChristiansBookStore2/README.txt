@@ -35,3 +35,5 @@ Figured out tthere was a small mitsake in the layout.cs file, so I erased some o
 I'm on part 2 and edited the appsettings.json file without much hassle. The project still runs fine.
 3:32
 it's been a while since I updated this part last, hasn't it? Anyways, I just added the AddDefaultidentityMigration
+3:39
+I think I finally got the Data folder figured out.
