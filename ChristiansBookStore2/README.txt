@@ -27,3 +27,5 @@ Updated the ViewMdoels refernces on all the pages.
 Forgot to remove the Class1.cs from every project when moving onto the SD.cs part.
 2:41
 Added the Utility refernce to the main project and added th SD class.
+2:52
+I edited and move some of the files so that they would be up to date with what the project requires.
