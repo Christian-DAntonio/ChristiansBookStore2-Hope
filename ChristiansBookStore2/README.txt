@@ -29,3 +29,7 @@ Forgot to remove the Class1.cs from every project when moving onto the SD.cs par
 Added the Utility refernce to the main project and added th SD class.
 2:52
 I edited and move some of the files so that they would be up to date with what the project requires.
+3:01
+Figured out tthere was a small mitsake in the layout.cs file, so I erased some of the clutter and now it looks normal. i'm also offically done with the first part
+3:05
+I'm on part 2 and edited the appsettings.json file without much hassle. The project still runs fine.
