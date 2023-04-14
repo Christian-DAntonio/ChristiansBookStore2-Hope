@@ -41,3 +41,6 @@ I think I finally got the Data folder figured out.
 Made the category class in the Models project.
 3:52
 Updated the Category.cs file.
+Apr/15/2023
+2:58
+I'm back + I just realised that there was a small mistake in the maxlength area in the Category.cs file. I changed it immediately. 

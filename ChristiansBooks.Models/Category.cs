@@ -12,7 +12,7 @@ namespace ChristiansBooks.Models
 
         [Display(Name="Category Name")]
         [Required]
-        [MaxLength]
+        [MaxLength(50)]
         public string name { get; set; }
     }
 }
